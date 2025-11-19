@@ -1,6 +1,6 @@
 # pycounts
 
-Calculate word counts in a text file
+Calculate word counts in a text file for ever and ever
 
 ## Installation
 
